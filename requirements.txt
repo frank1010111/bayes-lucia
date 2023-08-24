@@ -1,0 +1,9 @@
+aesara
+arviz
+ipykernel
+matplotlib
+numpy
+pandas
+pymc
+seaborn
+statsmodels
